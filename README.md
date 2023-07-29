@@ -1,4 +1,4 @@
-# HarvardX-CS50-s
+# HarvardX-CS50
 HarvardX CS50PCS50's Introduction to Programming with Python
 
 Course description
