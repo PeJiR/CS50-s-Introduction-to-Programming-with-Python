@@ -14,6 +14,5 @@ for letter in answer:
 
 
 
-
 #print new line
 print()
