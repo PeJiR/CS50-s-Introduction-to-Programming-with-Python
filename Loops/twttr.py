@@ -13,5 +13,4 @@ for letter in answer:
         print(letter, end="")
 
 #print new line
-
 print()
