@@ -8,7 +8,7 @@ def main():
 
     else:
 
-        print("Invalid")
+        print("Invalid") d
 
 def is_valid(s):
 
