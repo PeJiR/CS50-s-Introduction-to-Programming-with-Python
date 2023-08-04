@@ -19,7 +19,7 @@ while True:
 p = int(f*100)
 #check if p is less than 1, print E
 if p < 1:
-    print("E")
+    print("E")ccc
 #check if p is greater than 99, print F
 elif p >99:
     print("F")
