@@ -1,2 +1,12 @@
+#import library
+
+import emoji
+
+
 #get user input
-input = input ("Input: " )
+answer= input ("Input: " )
+
+output = emoji.emojize(answer)
+
+print( "Output:", output)
+
