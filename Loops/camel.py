@@ -1,6 +1,6 @@
 # camelCase
  
-# camel
+# camel 
 
 # Source: en.wikipedia.org/wiki/Camel_case
 
