@@ -1,4 +1,4 @@
-def main():
+def main(): 
     msg = input()
     results =convert(msg)
     print(results) 
