@@ -1,7 +1,7 @@
 def main(): 
     msg = input()
     results =convert(msg)
-    print(results) 
+    print(results)  
 def convert(msg): 
     msg1=msg.replace (":)",'🙂')
     msg2=msg1.replace (":(", '🙁')
