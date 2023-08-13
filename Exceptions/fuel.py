@@ -5,7 +5,7 @@ while True:
     try:
         #try to split the fuel
         numerator, denominator = fuel.split("/")
-        #convert into a integer
+        #convert into a integer 
         new_numerator= int(numerator)
         new_denominator = int(denominator)
         #calculate the percentage
