@@ -1,5 +1,5 @@
 #while forever
-while True:
+while True: 
     #
     fuel = input("Fraction: ")
     try:
