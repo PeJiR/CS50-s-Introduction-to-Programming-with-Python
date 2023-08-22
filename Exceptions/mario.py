@@ -1,6 +1,6 @@
 def main():
     height = int(input("Height: "))
-    pyramid(height)
+    pyramid(height) 
 
 def pyramid(n):
     for i in range(n):
