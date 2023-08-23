@@ -1,7 +1,7 @@
 #while forever        
 while True:           
     #
-    fuel = input("Fraction: ")
+    fuel = input("Fraction: ") 
     try:
         #try to split the fuel
         numerator, denominator = fuel.split("/")
