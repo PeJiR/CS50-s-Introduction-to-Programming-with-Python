@@ -1,46 +1,81 @@
-list [
+months = [
+
     "January",
+
     "February",
+
     "March",
+
     "April",
+
     "May",
+
     "June",
+
     "July",
+
     "August",
+
     "September",
+
     "October",
+
     "November",
+
     "December"
+
 ]
-#loop forever
-while True:
 
-#get user input
-    date =input("Date: ")
-    try:
-        #split the date by /
-        month,day,year = date.split()
-        #check if month is between 1 and 12 and if day is between 1 and 31
-        if (int(month)>= 1 and int(month)<= 12) and(int(day)>=1 and int(day) <=31):
-            break
+def main():
 
-    except:
+    while True:
+
+        date = input('Date: ')
+
         try:
-            #split the date by space
-            old_month, old_day, year =date.split("")
-            #find the number of the month
-            for i in range [len(months)]:
-                if old_month == months[1]:
-                    month = i + 1
-            #remove comma from my date
-            day = old_date.replace(",","")
-            #check if month is between 1 and 12 and if day is between 1 and 31
-            if (int(month)>= 1 and int(month)<= 12) and (int(day)>=1 and int(day) <=31):
-                break
+
+            mnth,day,year = date.split('/')
+
+            mnth = int(mnth)
+
+            day = int(day)
+
+            year = int(year)
+
+            if (int (mnth) > 0 and int(mnth) < 13) and (int(day) > 0 and int(day) < 32):
+
+                if year >= 1000 and year <= 9999:
+
+                    print (year, f'{mnth:02}',f'{day:02}', sep='-')
+
+                    break
+
         except:
-            #to go to the next line
-            print()
-            pass
 
-print(f"{year}-{int(month):02}{int(day):02}")
+            try:
 
+                if "," in date:
+
+                    mnth,day,year = date.split(' ')
+
+                    day = day.replace(',','')
+
+                    day = int(day)
+
+                    year = int(year)
+
+                    if mnth in months and (int(day) > 0 and int(day) < 32):
+
+                        if year >= 1000 and year <= 9999:
+
+                            mnth= (months.index (mnth)+1)
+
+                            print (year, f'{mnth:02}',f'{day:02}', sep = '-')
+
+                            break
+
+            except:
+
+                pass
+
+main()
