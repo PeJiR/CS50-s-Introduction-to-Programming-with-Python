@@ -1,17 +1,21 @@
-#get user input
-answer = input("Input: ")
+def main():
 
-#print output
-print("Output: ", end="")
-print("")
+    #get user input
+    answer = input("Input: ")
+    message_without_vowels= shorten(answer)
+    #print output
+    print("Output: " + message_without_vowels)
 
-#loop through every letter
-for letter in answer:
+def shorten(answer):
+    message_without_vowels= ""
+    #loop through every letter
+    for letter in answer:
 
-    #check if it is a vowel or not
-    if not letter.lower() in ['a','e','i','o','u']:
-        print(letter, end="")
+        #check if it is a vowel or not
+        if not letter.lower() in ['a','e','i','o','u']:
+           message_without_vowels += letter
 
+    return message_without_vowels
 
-#print new line
-print()
+if __name__=="__main__":
+    main()
