@@ -13,6 +13,6 @@ def test_square():
     except AssetionError:
         print("3 square was not 9")
 
-        
+
 if __name__=="__main__"
     main()
