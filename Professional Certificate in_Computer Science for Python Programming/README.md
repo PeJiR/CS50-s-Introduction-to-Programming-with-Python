@@ -1,6 +1,5 @@
 # Professional Certificate in Computer Science for Python Programming
-HarvardX's Computer Science for Python Programming Professional Certificate
-
+ 
 **Certificate Description:**
 
 A broad and robust understanding of computer science and programming.
