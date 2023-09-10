@@ -16,7 +16,9 @@ How to handle exceptions, find and fix bugs, and write unit tests. Use third-par
 
 Model real-world entities with classes, objects, methods, and properties; and read and write files.
 
-## [CS50's Introduction to Computer Science]
-## [CS50's Introduction to Programming with Python](https://github.com/PeJiR/Harvard-University-Certificates/tree/main/Professional%20Certificate%20in_Computer%20Science%20for%20Python%20Programming/CS50-s-Introduction-to-Programming-with-Python)
+## Courses in this program:
+
+### [CS50's Introduction to Computer Science]
+### [CS50's Introduction to Programming with Python](https://github.com/PeJiR/Harvard-University-Certificates/tree/main/Professional%20Certificate%20in_Computer%20Science%20for%20Python%20Programming/CS50-s-Introduction-to-Programming-with-Python)
 
 [Website](https://www.edx.org/professional-certificate/harvardx-computer-science-for-python-programming?webview=false&campaign=Computer+Science+for+Python+Programming&source=edx&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fprofessional-certificate)
