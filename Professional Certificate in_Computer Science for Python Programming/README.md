@@ -2,6 +2,7 @@
 HarvardX's Computer Science for Python Programming Professional Certificate
 
 Certificate Description:
+
     A broad and robust understanding of computer science and programming.
     How to think algorithmically and solve programming problems efficiently.
     Concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering,     and web development.
