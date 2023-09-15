@@ -110,13 +110,13 @@ def main():
     print('\nEnter -e or --exit to end game')
     print('Enter -r or --retry to restart game with another movie.\n\n')
 
-    
+
     # select a random movie
     movie, year = select_movie(films)
 
     # print movie name and year - DEMO
     # print(f'(Demo purpose - Movie name : {movie})\n')
-    
+
     # frame question with blanks
     ques = question(movie)
 
@@ -129,13 +129,13 @@ def main():
     if res == 'exit':
         print('Game Ended.')
         return
-    if res == True or res == False: 
+    if res == True or res == False:
         print(get_result(res))
 
 
 def select_movie(films):
     movie = random.choices(films)
-    
+
     if search := re.search(r'^([A-Za-z0-9_.-:,\' ]*) \((\d{4})\)$', movie[0]):
         return search.groups()
 
@@ -156,12 +156,12 @@ def game(question, movie, year):
     # create moviename in str
     moviename = ''.join(map(str, movie)).strip().lower()
 
-    # copy moviename list 
+    # copy moviename list
     moviecp = movie.copy()
 
     # create a list of all elements of movie in lowercase
     lower_movie = [x.lower() for x in movie]
-    
+
     # initiate counter
     count = 1
     hint = False
@@ -177,7 +177,7 @@ def game(question, movie, year):
         if answer == '--hint' and count > 5 and hint == False:
             print(f'The movie was released in {year}\n')
             hint = True
-        
+
         elif answer == '--exit' or answer == '-e' or answer == '--quit':
             return 'exit'
 
@@ -198,7 +198,7 @@ def game(question, movie, year):
         else:
             # if wrong guess increase counter
             count+=1
-        
+
     if count < 11:
         print(*question,'\n')
         return True
