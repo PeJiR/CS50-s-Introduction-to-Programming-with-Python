@@ -1,7 +1,12 @@
-# [HarvardX CS50PCS50's Introduction to Programming with Python](https://pll.harvard.edu/course/cs50s-introduction-programming-python) 
+# [Harvard University: CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) 
 
 **Course description**
 
-An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and "debug" it. Designed for students with and without prior programming experience who'd like to learn Python specifically. Learn about functions, arguments, and return values (oh my!); variables and types; conditions and Boolean expressions; loops; and objects and methods. Plus exceptions, file I/O, and libraries. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems.
+A broad and robust understanding of computer science and programming
+How to think algorithmically and solve programming problems efficiently
+Concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development
+Familiarity in a number of languages, including C, Python, SQL, and JavaScript plus CSS and HTML
+How to engage with a vibrant community of like-minded learners from all levels of experience
+How to develop and present a final programming project to your peers
 
  
