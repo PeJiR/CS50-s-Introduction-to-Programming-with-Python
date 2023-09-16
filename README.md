@@ -4,7 +4,7 @@ You can find the materials for each certificate below or look at the assignments
 
 Hope this is helpful to other students, you are free to contact me for any question or clarification. Every exercise in this repository scored 100% on submission.
 
-**See listed below the certificats that i have achieved so far:**
+**See listed below the certificats that I have achieved so far:**
 
 ### [Professional Certificate in Computer Science for Python Programming](  https://github.com/PeJiR/Harvard-University-Certificates/blob/main/Professional%20Certificate%20in_Computer%20Science%20for%20Python%20Programming/README.md)
 
