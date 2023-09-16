@@ -1,20 +1,49 @@
-from project import select_movie, question, get_result
+import unittest
+from unittest.mock import patch
+from io import StringIO
+import sys
 
+# Import the functions from the tic-tac-toe code.
+from tic_tac_toe import tic_tac_toe, print_board, get_move, check_winner, is_full
 
-def test_select_movie():
-    assert select_movie(['Avatar (2009)']) == ('Avatar', '2009')
-    assert select_movie(['Avatar (200)']) == None
-    assert select_movie(['Avatar 2009']) == None
-    assert select_movie(['Avatar(2009)']) == None
+class TestTicTacToe(unittest.TestCase):
+    def setUp(self):
+        self.board = [['X', 'O', 'X'],
+                      ['O', 'X', 'O'],
+                      ['O', 'X', 'X']]
 
+    def test_print_board(self):
+        expected_output = "X O X\nO X O\nO X X\n"
+        captured_output = StringIO()
+        sys.stdout = captured_output
+        print_board(self.board)
+        sys.stdout = sys.__stdout__  # Reset the sys.stdout
+        self.assertEqual(captured_output.getvalue(), expected_output)
 
-def test_question():
-    assert question('Avatar') == ['_','_','_','_','_','_']
-    assert question('avatar') == ['_','_','_','_','_','_']
-    assert question('Avatar 2') == ['_','_','_','_','_','_', ' ', '_']
-    assert question('Avatar: 2') == ['_','_','_','_','_','_', ':', ' ', '_']
+    @patch('builtins.input', side_effect=["1 1", "1 2", "2 1", "2 2", "3 1"])
+    def test_get_move(self, mock_input):
+        board = [[' ', ' ', ' '],
+                 [' ', ' ', ' '],
+                 [' ', ' ', ' ']]
 
+        expected_moves = [(0, 0), (0, 1), (1, 0), (1, 1), (2, 0)]
+        for move in expected_moves:
+            row, col = get_move('X', "Player", board)
+            self.assertEqual((row, col), move)
 
-def test_get_result():
-    assert get_result(True) == 'Correct!'
-    assert get_result(False) == 'Incorrect, try again!'
+    def test_check_winner(self):
+        self.assertEqual(check_winner(self.board), 'X')
+
+    def test_is_full(self):
+        full_board = [['X', 'O', 'X'],
+                      ['O', 'X', 'O'],
+                      ['O', 'X', 'X']]
+        self.assertTrue(is_full(full_board))
+
+        partial_board = [['X', 'O', 'X'],
+                         ['O', 'X', ' '],
+                         ['O', 'X', 'X']]
+        self.assertFalse(is_full(partial_board))
+
+if __name__ == '__main__':
+    unittest.main()
