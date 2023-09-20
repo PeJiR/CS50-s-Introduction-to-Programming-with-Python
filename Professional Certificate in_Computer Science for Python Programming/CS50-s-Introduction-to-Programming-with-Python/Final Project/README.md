@@ -40,16 +40,16 @@ The first player to get three of their marks in a row, column, or diagonal wins 
 
 The design choices for this project were made with the following goals in mind:
 
-    Simplicity: The game should be easy to play and understand for players of all ages and skill levels.
-    Fairness: The game should be fair and balanced for both players.
-    Portability: The game should be playable on any platform that has a Python interpreter.
+Simplicity: The game should be easy to play and understand for players of all ages and skill levels.
+Fairness: The game should be fair and balanced for both players.
+Portability: The game should be playable on any platform that has a Python interpreter.
 
 **Additional Considerations:**
 
 In addition to the design choices listed above, the following considerations were also made when developing this project:
 
-    Error checking: The game should prevent players from making invalid moves, such as placing their mark in a space that is already taken.
-    Code quality: The game code should be well-written and easy to maintain.
+Error checking: The game should prevent players from making invalid moves, such as placing their mark in a space that is already taken.
+Code quality: The game code should be well-written and easy to maintain.
 
 **Conclusion:**
 
