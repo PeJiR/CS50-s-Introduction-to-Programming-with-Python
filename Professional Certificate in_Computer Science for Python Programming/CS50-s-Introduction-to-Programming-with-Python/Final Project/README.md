@@ -14,6 +14,4 @@ I am happy with the design choices that I made for this project. I believe that 
 
 ### [Play this game online](https://www.online-python.com/oQn49MZL3r)
 
-### [Watch video](https://youtu.be/2NmSkC_Jtos)
-
-#### [Back to main Menu](https://github.com/PeJiR/Harvard-University-Certificates/tree/main)
+### [Back to main Menu](https://github.com/PeJiR/Harvard-University-Certificates/tree/main)
