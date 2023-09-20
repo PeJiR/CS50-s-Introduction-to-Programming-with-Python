@@ -26,7 +26,7 @@ To install the game, simply clone the repository to your local machine:
 
 To play the game, simply navigate to the project directory and run the following command:
 
-    python tic_tac_toe.py
+    python project.py
 
 You will be prompted to enter the names of the two players. The game will then begin, and the players will take turns placing their marks on the board.
 
