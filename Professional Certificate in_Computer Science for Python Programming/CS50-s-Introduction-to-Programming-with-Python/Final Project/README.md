@@ -2,6 +2,8 @@
 
 ### [Video Demo](https://youtu.be/T85OjtX9J4k)
 
+### [Play this game online](https://www.online-python.com/oQn49MZL3r)
+
 ### Description:
 
 This project is a simple tic-tac-toe game implemented in Python. The game can be played by two players, who take turns placing their marks (X or O) on a 3x3 grid. The first player to get three of their marks in a row, column, or diagonal wins the game.
@@ -56,7 +58,6 @@ Code quality: The game code should be well-written and easy to maintain.
 This project is a simple but complete implementation of a tic-tac-toe game in Python. The game is fair, portable, and easy to play. The code is also well-written and easy to maintain.
 
 
-### [Play this game online](https://www.online-python.com/oQn49MZL3r)
 
 
 #### [Back to main Menu](https://github.com/PeJiR/Harvard-University-Certificates/tree/main)
