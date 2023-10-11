@@ -8,7 +8,7 @@ How to think algorithmically and solve programming problems efficiently.
 
 Concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering,     and web development.
 
-Familiarity in a number of languages, namely Python as well as C, SQL, and JavaScript plus CSS and HTML.
+Familiarity in a number of languages, namely **Python as well as C, SQL, and JavaScript plus CSS and HTML.**
 
 Functions, arguments, and return values variables and types; conditionals and Boolean expressions; and loops.
 
