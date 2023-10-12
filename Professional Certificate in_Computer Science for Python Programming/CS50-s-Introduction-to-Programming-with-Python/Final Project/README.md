@@ -158,7 +158,10 @@ def is_full(board):
 # Start the game
 tic_tac_toe()
 ```
+P.S.
+------------
 
+Please drop me an note with any feedback you have.
 
+**Roberto Perez**
 
-#### [Back to main Menu](https://github.com/PeJiR/Harvard-University-Certificates/tree/main)
