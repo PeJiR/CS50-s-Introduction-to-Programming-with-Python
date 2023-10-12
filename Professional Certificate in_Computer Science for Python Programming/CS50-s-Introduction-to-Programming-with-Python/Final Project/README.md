@@ -1,4 +1,4 @@
-# ✨Project Title: Tic-Tac-Toe Game in Python✨
+# Project Title: Tic-Tac-Toe Game in Python
 
 ### [Video Demo](https://youtu.be/T85OjtX9J4k)
 
