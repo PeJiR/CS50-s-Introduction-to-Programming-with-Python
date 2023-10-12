@@ -1,5 +1,5 @@
 # Project Title: Tic-Tac-Toe Game in Python
----
+ 
 <a href="https://vscode.dev/github/PeJiR/Calculation-of-employee-turnover-costs" target="_blank"> <img border=0 src="https://img.shields.io/badge/Open%20in%20Visual%20Studio%20Code-blue" alt="Visual Code"></a>
 <a href="https://github.com/PeJiR/Calculation-of-employee-turnover-costs.git" target="_blank"> <img border=0 src="https://img.shields.io/badge/python-2.7,%203.6+-blue.svg?style=flat" alt="Python version"></a>
 <a href="https://github.com/PeJiR/Calculation-of-employee-turnover-costs.git" target="_blank"><img src="https://img.shields.io/pypi/status/ezibpy.svg?maxAge=60" alt="status"/></a>
