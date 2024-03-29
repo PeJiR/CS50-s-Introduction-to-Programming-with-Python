@@ -21,16 +21,13 @@ Finally, you'll learn how to make webpages that respond to different screen size
 ##  List of my Projects
 
 
-| Week | Topic            | Name                       |
+| Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
-| 1    | C                | [Pset1](Pset1)             |
-| 2    | Arrays           | [Pset2](Pset2)             |
-| 3    | Algorithms       | [Pset3](Pset3)             |
-| 4    | Memory           | [Pset4](Pset4)             |
-| 5    | Data Structures  | [Pset5](Pset5)             |
-| 6    | Python           | [Pset6](Pset6)             |
-| 7    | SQL              | [Pset7](Pset7)             |
-| 8    | Information      | [WebTrack](WebTrack)       |
+| Build an app that is functionally   | HTML, CSS , Flexbox, HTML forms for Data Collection |[Survey Form ](https://github.com/PeJiR/freeCodeCamp-Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.1.Certification%20Project_Survey%20Form)|
+| Build a tribute page  | HTML, CSS , Box Model, Fexbox, Typography, Accessibility, Aria attributes, design best practices    | [Tribute page](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.2.Certification%20Project-Build%20a%20Tribute%20Page)             |
+| Build a technical documentation page to serve as instruction or reference for a topic  | HTML, CSS , Pseudo Selectors, Events Triggers, CSS positioning, absolute positioning, z-index, transform property,Responsive Design , media queries     | [Technical Documentation Page](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.3.Certification_Project_Technical%20Documentation%20Page)             |
+| Build a product landing page   | HTML, CSS, CSS variables, CSS Grid     | [Product Landing Page](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.4.Product%20Landing%20Page)             |
+| Build my own personal portfolio webpage  |HTML, CSS, CSS animation,CSS transforms  | [Personal Portfolio Webpage](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)             |
 
 
 
