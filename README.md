@@ -15,28 +15,21 @@ freeCodeCamp is a community of millions of people around the world who are learn
  
  Instructional Design, Software Engineering, JavaScript, Node.js, MongoDB, Angular.js, Express.js, programming, technology, python, linux, React.js, and git  
 
-## [See Certificate](https://www.freecodecamp.org/Pejir)
+
  
-<a href="https://www.freecodecamp.org/Pejir" target="_blank">
-    <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/main/images/certificate_7858484.png" loading="lazy" alt="certificate" width="96" height="96">
-</a>
- 
+## Courses in this program:
 
-## List of my Projects
+### [Responsive Web Design](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design)
 
+### List of my Projects
 
-| Certificate | Topic            | Name                       |
+| Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
-| Responsive Web Design   | HTML, CSS , Flexbox, HTML forms for Data Collection |[Survey Form ](https://github.com/PeJiR/freeCodeCamp-Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.1.Certification%20Project_Survey%20Form)|
+| Build an app that is functionally   | HTML, CSS , Flexbox, HTML forms for Data Collection |[Survey Form ](https://github.com/PeJiR/freeCodeCamp-Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.1.Certification%20Project_Survey%20Form)|
 | Responsive Web Design  | HTML, CSS , Box Model, Fexbox, Typography, Accessibility, Aria attributes, design best practices    | [Tribute page](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.2.Certification%20Project-Build%20a%20Tribute%20Page)             |
 | Responsive Web Design  | HTML, CSS      | [Pset3](Pset3)             |
 | Responsive Web Design  | HTML, CSS      | [Pset4](Pset4)             |
 | Responsive Web Design  |HTML, CSS  | [Pset5](Pset5)             |
-| Legacy JavaScript Algorithms and Data Structures |HTML, CSS , JavaScript | [Pset5](Pset5)             |
-| Legacy JavaScript Algorithms and Data Structures |HTML, CSS , JavaScript | [Pset5](Pset5)             |
-| Legacy JavaScript Algorithms and Data Structures  |HTML, CSS , JavaScript | [Pset5](Pset5)             |
-| Legacy JavaScript Algorithms and Data Structures  |HTML, CSS , JavaScript | [Pset5](Pset5)             |
-| Legacy JavaScript Algorithms and Data Structures  |HTML, CSS , JavaScript | [Pset5](Pset5)             |
 
 
 
