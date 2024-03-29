@@ -13,7 +13,7 @@ An introduction to programming using a language called Python. Learn how to read
 
 | Certificate | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
-| Responsive Web Design   | C                | [Survey Form ](https://github.com/PeJiR/freeCodeCamp-Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.1.Certification%20Project_Survey%20Form)             |
+| Responsive Web Design   | HTML, CSS ,Data Collection              | [Survey Form ](https://github.com/PeJiR/freeCodeCamp-Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.1.Certification%20Project_Survey%20Form)             |
 | Responsive Web Design  | Arrays           | [Pset2](Pset2)             |
 | Responsive Web Design  | Algorithms       | [Pset3](Pset3)             |
 | Responsive Web Design  | Memory           | [Pset4](Pset4)             |
