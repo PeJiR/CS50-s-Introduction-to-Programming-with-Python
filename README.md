@@ -13,7 +13,14 @@ freeCodeCamp is a community of millions of people around the world who are learn
   
 ## Specialties
  
- Instructional Design, Software Engineering, JavaScript, Node.js, MongoDB, Angular.js, Express.js, programming, technology, python, linux, React.js, and git  
+ - Instructional Design,
+ - Software Engineering,
+ - JavaScript, Node.js,
+ - MongoDB, Angular.js,
+ -  Express.js,
+ -  Programming, technology,
+ - Python, Linux,
+ -   React.js, and Git  
 
 
  
