@@ -1,7 +1,7 @@
 # [Responsive Web Design](https://pll.harvard.edu/course/cs50s-introduction-programming-python) 
  
 
-**Course description**
+## Course description
 
 In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
 
@@ -9,7 +9,7 @@ First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, 
 
 Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
 
-**See Certificate**
+### See Certificate
 
 <a href="https://www.freecodecamp.org/certification/Pejir/responsive-web-design" target="_blank">
     <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/main/images/certificate_7858484.png" loading="lazy" alt="certificate" width="96" height="96">
@@ -30,3 +30,24 @@ Finally, you'll learn how to make webpages that respond to different screen size
 | 6    | Python           | [Pset6](Pset6)             |
 | 7    | SQL              | [Pset7](Pset7)             |
 | 8    | Information      | [WebTrack](WebTrack)       |
+
+
+
+
+## Author
+
+👤 **Roberto PEREZ**
+
+<!--- 
+* [Website](https://pejir.github.io/robertoportfolio.io/ )
+* [Twitter](https://twitter.com/pejir)--->
+* [Github](https://github.com/pejir)
+* [LinkedIn](https://linkedin.com/in/pejir)
+
+<!---
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](pejir). You can also take a look at the [contributing guide](pejir).
+---> 
+ 
+## Show your support
