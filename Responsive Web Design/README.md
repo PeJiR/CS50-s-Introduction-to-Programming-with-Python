@@ -9,7 +9,7 @@ First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, 
 
 Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
 
-### See Certificate
+## See Certificate
 
 <a href="https://www.freecodecamp.org/certification/Pejir/responsive-web-design" target="_blank">
     <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/main/images/certificate_7858484.png" loading="lazy" alt="certificate" width="96" height="96">
@@ -17,7 +17,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
  
 
-### List of my Projects
+##  List of my Projects
 
 
 | Week | Topic            | Name                       |
