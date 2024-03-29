@@ -21,4 +21,6 @@ An introduction to programming using a language called Python. Learn how to read
 | Legacy JavaScript Algorithms and Data Structures |HTML, CSS , JavaScript | [Pset5](Pset5)             |
 | Legacy JavaScript Algorithms and Data Structures |HTML, CSS , JavaScript | [Pset5](Pset5)             |
 | Legacy JavaScript Algorithms and Data Structures  |HTML, CSS , JavaScript | [Pset5](Pset5)             |
+| Legacy JavaScript Algorithms and Data Structures  |HTML, CSS , JavaScript | [Pset5](Pset5)             |
+| Legacy JavaScript Algorithms and Data Structures  |HTML, CSS , JavaScript | [Pset5](Pset5)             |
 
