@@ -3,7 +3,11 @@
 
 **Course description**
 
-An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and "debug" it. Designed for students with and without prior programming experience who'd like to learn Python specifically. Learn about functions, arguments, and return values (oh my!); variables and types; conditions and Boolean expressions; loops; and objects and methods. Plus exceptions, file I/O, and libraries. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems.
+freeCodeCamp is a community of millions of people around the world who are learning to code together. Learn to code with free online courses, programming projects, and interview preparation for developer jobs. We're a 501(c)(3) public charity. Get started at: https://www.freecodecamp.org
+
+**Specialties**
+ 
+ Instructional Design, Software Engineering, JavaScript, Node.js, MongoDB, Angular.js, Express.js, programming, technology, python, linux, React.js, and git  
 
 [**See Certificate**](https://www.freecodecamp.org/Pejir)
  
