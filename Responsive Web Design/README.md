@@ -9,7 +9,9 @@ First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, 
 
 Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
 
-[**See Certificate**](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/blob/main/CS50-s-Introduction-to-Programming-with-Python/Certificate_CS50%20Python.pdf)
+**See Certificate**
+
+<img src ="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/main/images/certificate_7858484.png" loading ="lazy" alt ="certificate" width="96" height="96">
  
 
 ### List of my Projects
