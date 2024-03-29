@@ -9,7 +9,7 @@ freeCodeCamp is a community of millions of people around the world who are learn
  
  Instructional Design, Software Engineering, JavaScript, Node.js, MongoDB, Angular.js, Express.js, programming, technology, python, linux, React.js, and git  
 
-[**See Certificate**](https://www.freecodecamp.org/Pejir)
+[**See Certificates**](https://www.freecodecamp.org/Pejir)
  
 
 ### List of my Projects
