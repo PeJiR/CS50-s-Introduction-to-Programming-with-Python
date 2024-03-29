@@ -11,7 +11,10 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 **See Certificate**
 
-<img src ="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/main/images/certificate_7858484.png" loading ="lazy" alt ="certificate" width="96" height="96">
+<a href="https://www.freecodecamp.org/certification/Pejir/responsive-web-design" target="_blank">
+    <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/main/images/certificate_7858484.png" loading="lazy" alt="certificate" width="96" height="96">
+</a>
+
  
 
 ### List of my Projects
