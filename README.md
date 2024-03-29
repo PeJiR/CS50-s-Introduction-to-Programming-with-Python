@@ -14,14 +14,14 @@ freeCodeCamp is a community of millions of people around the world who are learn
  
  Instructional Design, Software Engineering, JavaScript, Node.js, MongoDB, Angular.js, Express.js, programming, technology, python, linux, React.js, and git  
 
-### [See Certificate](https://www.freecodecamp.org/Pejir)
+## [See Certificate](https://www.freecodecamp.org/Pejir)
  
 <a href="https://www.freecodecamp.org/Pejir" target="_blank">
     <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/main/images/certificate_7858484.png" loading="lazy" alt="certificate" width="96" height="96">
 </a>
  
 
-### List of my Projects
+## List of my Projects
 
 
 | Certificate | Topic            | Name                       |
@@ -36,6 +36,7 @@ freeCodeCamp is a community of millions of people around the world who are learn
 | Legacy JavaScript Algorithms and Data Structures  |HTML, CSS , JavaScript | [Pset5](Pset5)             |
 | Legacy JavaScript Algorithms and Data Structures  |HTML, CSS , JavaScript | [Pset5](Pset5)             |
 | Legacy JavaScript Algorithms and Data Structures  |HTML, CSS , JavaScript | [Pset5](Pset5)             |
+
 
 
 
@@ -57,3 +58,23 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
  
 ## Show your support
 
+Give a ⭐️ if this project helped you!
+
+<!---
+<a href="https://www.patreon.com/pejir">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+--->
+
+## 📝 License
+
+Copyright © 2023 [Roberto Perez](https://github.com/PeJiR).<br />
+This project is [MIT](https://opensource.org/license/mit/) licensed.
+
+
+P.S.
+------------
+
+Please drop me an note with any feedback you have.
+
+**Roberto Perez**
