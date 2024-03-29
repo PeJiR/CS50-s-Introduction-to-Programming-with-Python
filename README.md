@@ -13,6 +13,10 @@ freeCodeCamp is a community of millions of people around the world who are learn
 
 [**See Certificates**](https://www.freecodecamp.org/Pejir)
  
+<a href="https://www.freecodecamp.org/Pejir" target="_blank">
+    <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/main/images/certificate_7858484.png" loading="lazy" alt="certificate" width="96" height="96">
+</a>
+ 
 
 ### List of my Projects
 
