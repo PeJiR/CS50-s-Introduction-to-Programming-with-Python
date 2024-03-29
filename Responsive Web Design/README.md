@@ -34,6 +34,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 
 
+
 ## Author
 
 👤 **Roberto PEREZ**
@@ -51,3 +52,24 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ---> 
  
 ## Show your support
+
+Give a ⭐️ if this project helped you!
+
+<!---
+<a href="https://www.patreon.com/pejir">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+--->
+
+## 📝 License
+
+Copyright © 2023 [Roberto Perez](https://github.com/PeJiR).<br />
+This project is [MIT](https://opensource.org/license/mit/) licensed.
+
+
+P.S.
+------------
+
+Please drop me an note with any feedback you have.
+
+**Roberto Perez**
