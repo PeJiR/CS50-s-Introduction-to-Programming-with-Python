@@ -48,7 +48,7 @@ freeCodeCamp is a community of millions of people around the world who are learn
 | Build a Roman Numeral Converter  | JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting | [Roman Numeral Converter](https://playcode.io/1818572)             |
 | Build a Caesars Cipher  | JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting | [Caesars Cipher](https://playcode.io/1818575)             |
 | Build a Telephone Number Validator   | JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting    | [Telephone Number Validator](https://playcode.io/1818576)             |
-| Build a Cash Register  |JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting | [Cash Register](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/11.Projects/Cash%20Register.js)             |
+| Build a Cash Register  |JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting | [Cash Register](https://playcode.io/1818577)             |
 
 
 
