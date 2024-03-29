@@ -37,3 +37,23 @@ freeCodeCamp is a community of millions of people around the world who are learn
 | Legacy JavaScript Algorithms and Data Structures  |HTML, CSS , JavaScript | [Pset5](Pset5)             |
 | Legacy JavaScript Algorithms and Data Structures  |HTML, CSS , JavaScript | [Pset5](Pset5)             |
 
+
+
+## Author
+
+👤 **Roberto PEREZ**
+
+<!--- 
+* [Website](https://pejir.github.io/robertoportfolio.io/ )
+* [Twitter](https://twitter.com/pejir)--->
+* [Github](https://github.com/pejir)
+* [LinkedIn](https://linkedin.com/in/pejir)
+
+<!---
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](pejir). You can also take a look at the [contributing guide](pejir).
+---> 
+ 
+## Show your support
+
