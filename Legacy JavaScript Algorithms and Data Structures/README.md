@@ -15,7 +15,7 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 
 ## See Certificate
 
-<a href="https://www.freecodecamp.org/certification/Pejir/responsive-web-design](https://www.freecodecamp.org/certification/Pejir/javascript-algorithms-and-data-structures)" target="_blank">
+<a href="https://www.freecodecamp.org/certification/Pejir/javascript-algorithms-and-data-structures" target="_blank">
     <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/main/images/certificate_7858484.png" loading="lazy" alt="certificate" width="96" height="96">
 </a>
 
