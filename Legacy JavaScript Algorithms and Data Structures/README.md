@@ -24,16 +24,13 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 ##  List of my Projects
 
 
-| Week | Topic            | Name                       |
+| Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
-| 1    | C                | [Pset1](Pset1)             |
-| 2    | Arrays           | [Pset2](Pset2)             |
-| 3    | Algorithms       | [Pset3](Pset3)             |
-| 4    | Memory           | [Pset4](Pset4)             |
-| 5    | Data Structures  | [Pset5](Pset5)             |
-| 6    | Python           | [Pset6](Pset6)             |
-| 7    | SQL              | [Pset7](Pset7)             |
-| 8    | Information      | [WebTrack](WebTrack)       |
+| Build a Palindrome Checker  |JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting |[Palindrome Checker ](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/11.Projects/Palindrome%20Checker.js)|
+| Build a Roman Numeral Converter  | JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting | [Roman Numeral Converter](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/11.Projects/Roman%20Numeral%20Converter.js)             |
+| Build a Caesars Cipher  | JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting | [Caesars Cipher](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/11.Projects/Caesars%20Cipher.js)             |
+| Build a Telephone Number Validator   | JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting    | [Telephone Number Validator](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/11.Projects/Telephone%20Number%20Validator.js)             |
+| Build a Cash Register  |JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting | [Cash Register](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures/11.Projects/Cash%20Register.js)             |
 
 
 
