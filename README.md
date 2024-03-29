@@ -1,7 +1,7 @@
 # freeCodeCamp (🔥) -Full-Stack-Web-Development-Certification-Computer-Software-Engineering
  
 
-**Course description**
+## Course description
 
 freeCodeCamp is a community of millions of people around the world who are learning to code together. Learn to code with free online courses, programming projects, and interview preparation for developer jobs. We're a 501(c)(3) public charity. Get started at: https://www.freecodecamp.org
 
@@ -10,11 +10,11 @@ freeCodeCamp is a community of millions of people around the world who are learn
   </a>
 
   
-**Specialties**
+## Specialties
  
  Instructional Design, Software Engineering, JavaScript, Node.js, MongoDB, Angular.js, Express.js, programming, technology, python, linux, React.js, and git  
 
-[**See Certificates**](https://www.freecodecamp.org/Pejir)
+### [See Certificate](https://www.freecodecamp.org/Pejir)
  
 <a href="https://www.freecodecamp.org/Pejir" target="_blank">
     <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/main/images/certificate_7858484.png" loading="lazy" alt="certificate" width="96" height="96">
