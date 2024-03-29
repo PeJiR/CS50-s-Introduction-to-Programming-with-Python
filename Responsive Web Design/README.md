@@ -1,3 +1,4 @@
+<a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
 # [Responsive Web Design](https://pll.harvard.edu/course/cs50s-introduction-programming-python) 
  
 
