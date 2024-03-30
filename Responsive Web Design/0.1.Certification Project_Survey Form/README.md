@@ -48,7 +48,7 @@ Debian  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer
 
 ### [Link to project](https://codepen.io/Robeloper/full/OJqgbGP) ✨
  <a href="https://codepen.io/Robeloper/full/OJqgbGP">
-  <img src="survey.png" width="500px" height ="250px">
+  <img src="survey.png" width="500px" height ="300px">
 </a>
 
 
