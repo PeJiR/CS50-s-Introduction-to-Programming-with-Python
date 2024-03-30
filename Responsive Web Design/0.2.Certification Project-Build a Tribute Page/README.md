@@ -36,6 +36,7 @@ For this project, I have built a tribute page for a famous character.
 - Debian  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
 
+## Preview
 
 <a href="https://codepen.io/Robeloper/full/JjzrrXX">
   <img src="photo.png" width="auto">
