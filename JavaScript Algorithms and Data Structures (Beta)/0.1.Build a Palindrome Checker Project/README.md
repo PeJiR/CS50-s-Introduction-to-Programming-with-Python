@@ -23,7 +23,7 @@ For this project, I have built a Palindrome Checker.A palindrome is a word or ph
 
 ##  See project online 
 
-[Link to project](https://codepen.io/Robeloper/full/qBvYrxV)✨
+[Link to project](https://codepen.io/Robeloper/full/OJGxdry)✨
 
 ## Technology Used ✨
 - JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> 
