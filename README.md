@@ -2,7 +2,7 @@
 # freeCodeCamp (🔥) -Full-Stack-Web-Development-Certification-Computer-Software-Engineering
  
 
-## Certificate description
+## Program description
 
 freeCodeCamp is a community of millions of people around the world who are learning to code together. Learn to code with free online courses, programming projects, and interview preparation for developer jobs. We're a 501(c)(3) public charity. Get started at: https://www.freecodecamp.org
 
