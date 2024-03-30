@@ -1,7 +1,15 @@
-
-<h1 align="center">Survey Form </h1>
-
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
+
+<h1 align="center"> freeCodeCamp (🔥) -Full-Stack-Web-Development-Certification-
+  
+  Computer-Software-Engineering 
+
+<a href ="https://github.com/PeJiR/freeCodeCamp-Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main">
+    <img src="https://media.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_100_100/0/1630639684997/free_code_camp_logo?e=1720051200&amp;v=beta&amp;t=F-tTN1M2eWyeNoUGxWhQJrysRrQonck2PJJUxEpaf4c" loading="lazy" alt="freeCodeCamp" evi-   width="96" height="96"target="_blank">
+  </a>
+ 
+</h1>
+<h1 align="center">Survey Form </h1>
 
 <!---
 <p>

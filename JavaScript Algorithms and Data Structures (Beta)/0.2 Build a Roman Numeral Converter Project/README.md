@@ -1,7 +1,17 @@
-
-<h1 align="center">Product Landing Page 🤓 </h1>
-
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
+
+<h1 align="center"> freeCodeCamp (🔥) -Full-Stack-Web-Development-Certification-
+  
+  Computer-Software-Engineering 
+
+<a href ="https://github.com/PeJiR/freeCodeCamp-Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main">
+    <img src="https://media.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_100_100/0/1630639684997/free_code_camp_logo?e=1720051200&amp;v=beta&amp;t=F-tTN1M2eWyeNoUGxWhQJrysRrQonck2PJJUxEpaf4c" loading="lazy" alt="freeCodeCamp" evi-   width="96" height="96"target="_blank">
+  </a>
+ 
+</h1>
+<h1 align="center">Roman Numeral Converter 🤓 </h1>
+
+ 
 
 <!---
 <p>
@@ -19,15 +29,15 @@
 --->
 ## Project description: 
 
-For this project, I have built a technical documentation page to serve as instruction or reference for Introduction to HTML language.
+For this project, I have built a Roman Numeral Converter.Roman numerals are based on seven symbols and can be written using various combinations to represent Arabic numerals. 
 
 ##  See project online 
 
-[Link to project](https://codepen.io/Robeloper/full/qBvYrxV)✨
+[Link to project](https://codepen.io/Robeloper/full/vYMePBB)✨
 
 
 ## Technology Used ✨
-
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> 
 
 - CSS <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 - HTML <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -35,9 +45,10 @@ For this project, I have built a technical documentation page to serve as instru
 - Debian  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
 ## Preview
-<a href="https://codepen.io/Robeloper/full/qBvYrxV">
-  <img src="photo.png" width="auto">
+<a href="https://codepen.io/Robeloper/full/vYMePBB">
+  <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/8d28c1006a2164d2c2f88dc29a53ef8f75e9e257/images/logo.svg" width="300 px" height="300px">
 </a>
+
 
 
 
