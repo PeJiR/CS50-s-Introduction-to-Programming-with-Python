@@ -64,7 +64,14 @@ freeCodeCamp is a community of millions of people around the world who are learn
 | Build a Cash Register  |JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting | [Cash Register](https://playcode.io/1818577)             |
 
 
+- ### [JavaScript Algorithms and Data Structures (Beta)](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design)
 
+### List of my Projects
+
+| Objective | Topic            | Name                       |
+| :--- | :--------------- | :------------------------- |
+| Build a Palindrome Checker | HTML, CSS , Flexbox, HTML forms for Data Collection |[Survey Form ](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.1.Certification%20Project_Survey%20Form)|
+ 
 
 ## Author
 
