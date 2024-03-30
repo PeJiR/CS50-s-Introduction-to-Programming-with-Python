@@ -41,7 +41,7 @@ freeCodeCamp is a community of millions of people around the world who are learn
 
 - ### [Responsive Web Design](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design)
 
-### List of my Projects
+#### List of my Projects
 
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
@@ -57,7 +57,7 @@ freeCodeCamp is a community of millions of people around the world who are learn
 
 - ### [Legacy JavaScript Algorithms and Data Structures](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures)
 
-### List of my Projects
+#### List of my Projects
 
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
