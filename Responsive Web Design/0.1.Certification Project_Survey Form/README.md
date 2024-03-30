@@ -43,17 +43,14 @@ Debian  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer
 
 
 
-<a href="https://codepen.io/Robeloper/full/OJqgbGP">
-  <img src="survey.png" width="auto">
-</a>
-
-
-
 
 ##  See project online 
 
 ### [Link to project](https://codepen.io/Robeloper/full/OJqgbGP) ✨
- 
+ <a href="https://codepen.io/Robeloper/full/OJqgbGP">
+  <img src="survey.png" width="500px" heigh ="500px">
+</a>
+
 
 ## Author
 
