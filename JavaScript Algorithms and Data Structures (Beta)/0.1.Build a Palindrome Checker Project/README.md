@@ -45,7 +45,7 @@ Debian   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/deb
 
 ## Preview
 <a href="https://codepen.io/Robeloper/full/qBvYrxV">
-  <img src="photo.png" width="500px" heigh ="500px">
+  <img src="photo.png" width="500px" height ="300px">
 </a>
 
 ##  See project online 
