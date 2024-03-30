@@ -43,7 +43,7 @@ Debian   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/deb
 
 ## Preview
 <a href="https://codepen.io/Robeloper/full/vYMePBB">
-  <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/8d28c1006a2164d2c2f88dc29a53ef8f75e9e257/images/logo.svg" width="300 px" height="300px">
+  <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/8d28c1006a2164d2c2f88dc29a53ef8f75e9e257/images/logo.svg" width="500 px" height="500px">
 </a>
 
 ##  [See project online](https://codepen.io/Robeloper/full/vYMePBB) 
