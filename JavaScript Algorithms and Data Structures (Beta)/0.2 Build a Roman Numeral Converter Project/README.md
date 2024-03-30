@@ -46,7 +46,7 @@ For this project, I have built a Roman Numeral Converter.Roman numerals are base
 
 ## Preview
 <a href="https://codepen.io/Robeloper/full/qBvYrxV">
-  <img src="https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/assets/129693538/78ca3d71-6271-4e05-914b-270712c0be0f" width="300 px" height="300px">
+  <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/8d28c1006a2164d2c2f88dc29a53ef8f75e9e257/images/logo.svg" width="300 px" height="300px">
 </a>! 
 
 
