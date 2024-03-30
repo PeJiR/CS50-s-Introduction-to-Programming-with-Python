@@ -31,8 +31,6 @@
 
 For this project, I have built a Roman Numeral Converter.Roman numerals are based on seven symbols and can be written using various combinations to represent Arabic numerals. 
 
-##  [See project online](https://codepen.io/Robeloper/full/vYMePBB) 
-
 
 ## Technology Used ✨
 <div>
@@ -48,7 +46,7 @@ Debian   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/deb
   <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/8d28c1006a2164d2c2f88dc29a53ef8f75e9e257/images/logo.svg" width="300 px" height="300px">
 </a>
 
-
+##  [See project online](https://codepen.io/Robeloper/full/vYMePBB) 
 
 
  
