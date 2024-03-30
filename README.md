@@ -51,6 +51,10 @@ freeCodeCamp is a community of millions of people around the world who are learn
 | Build a product landing page   | HTML, CSS, CSS variables, CSS Grid     | [Product Landing Page](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.4.Product%20Landing%20Page)             |
 | Build my own personal portfolio webpage  |HTML, CSS, CSS animation,CSS transforms  | [Personal Portfolio Webpage](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)             |
 
+<div>
+ <br>
+</div>
+
 - ### [Legacy JavaScript Algorithms and Data Structures](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures)
 
 ### List of my Projects
@@ -63,6 +67,9 @@ freeCodeCamp is a community of millions of people around the world who are learn
 | Build a Telephone Number Validator   | JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting    | [Telephone Number Validator](https://playcode.io/1818576)             |
 | Build a Cash Register  |JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting | [Cash Register](https://playcode.io/1818577)             |
 
+<div>
+ <br>
+</div>
 
 - ### [JavaScript Algorithms and Data Structures (Beta)](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design)
 
@@ -72,6 +79,9 @@ freeCodeCamp is a community of millions of people around the world who are learn
 | :--- | :--------------- | :------------------------- |
 | Build a Palindrome Checker | HTML, CSS , Flexbox, HTML forms for Data Collection |[Survey Form ](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.1.Certification%20Project_Survey%20Form)|
  
+<div>
+ <br>
+</div>
 
 ## Author
 
