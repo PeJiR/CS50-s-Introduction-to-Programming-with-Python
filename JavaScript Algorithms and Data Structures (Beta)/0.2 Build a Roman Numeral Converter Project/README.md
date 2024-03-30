@@ -31,9 +31,7 @@
 
 For this project, I have built a Roman Numeral Converter.Roman numerals are based on seven symbols and can be written using various combinations to represent Arabic numerals. 
 
-##  See project online 
-
-### [Link to project](https://codepen.io/Robeloper/full/vYMePBB)✨
+##  [See project online](https://codepen.io/Robeloper/full/vYMePBB) 
 
 
 ## Technology Used ✨
