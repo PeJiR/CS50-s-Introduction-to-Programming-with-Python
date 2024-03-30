@@ -1,7 +1,17 @@
-
-<h1 align="center">Product Landing Page 🤓 </h1>
-
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
+
+<h1 align="center"> freeCodeCamp (🔥) -Full-Stack-Web-Development-Certification-
+  
+  Computer-Software-Engineering 
+
+<a href ="https://github.com/PeJiR/freeCodeCamp-Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main">
+    <img src="https://media.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_100_100/0/1630639684997/free_code_camp_logo?e=1720051200&amp;v=beta&amp;t=F-tTN1M2eWyeNoUGxWhQJrysRrQonck2PJJUxEpaf4c" loading="lazy" alt="freeCodeCamp" evi-   width="96" height="96"target="_blank">
+  </a>
+ 
+</h1>
+<h1 align="center">Roman Numeral Converter 🤓 </h1>
+
+ 
 
 <!---
 <p>
@@ -19,11 +29,11 @@
 --->
 ## Project description: 
 
-For this project, I have built a technical documentation page to serve as instruction or reference for Introduction to HTML language.
+For this project, I have built a Roman Numeral Converter.Roman numerals are based on seven symbols and can be written using various combinations to represent Arabic numerals. 
 
 ##  See project online 
 
-[Link to project](https://codepen.io/Robeloper/full/qBvYrxV)✨
+[Link to project](https://codepen.io/Robeloper/full/vYMePBB)✨
 
 
 ## Technology Used ✨
@@ -36,8 +46,9 @@ For this project, I have built a technical documentation page to serve as instru
 
 ## Preview
 <a href="https://codepen.io/Robeloper/full/qBvYrxV">
-  <img src="photo.png" width="auto">
-</a>
+  <img src="https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/assets/129693538/78ca3d71-6271-4e05-914b-270712c0be0f" width="300 px" height="300px">
+</a>! 
+
 
 
 
