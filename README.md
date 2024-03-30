@@ -71,7 +71,7 @@ freeCodeCamp is a community of millions of people around the world who are learn
  <br>
 </div>
 
-- ### [JavaScript Algorithms and Data Structures (Beta)](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design)
+- ### [JavaScript Algorithms and Data Structures (Beta)](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures%20(Beta))
 
 ### List of my Projects
 
