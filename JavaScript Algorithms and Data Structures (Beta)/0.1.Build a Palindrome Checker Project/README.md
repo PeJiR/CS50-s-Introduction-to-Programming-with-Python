@@ -11,8 +11,6 @@
 </h1>
 <h1 align="center">Palindrome Checker  </h1>
 
- 
-
 <!---
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-pejir-blue.svg?cacheSeconds=2592000" />
@@ -27,29 +25,32 @@
   </a>
 </p>
 --->
+
 ## Project description: 
 
 For this project, I have built a Palindrome Checker.A palindrome is a word or phrase that can be read the same way forwards and backwards, ignoring punctuation, case, and spacing.
 
-##  See project online 
-
-[Link to project](https://codepen.io/Robeloper/full/OJGxdry)✨
-
 ## Technology Used ✨
-- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> 
-- CSS  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-- HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-- VSCode  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="css3" width="40" height="40"/>
-- git  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="css3" width="40" height="40"/>
-- Codepen  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" alt="css3" width="40" height="40"/>
-- Debian   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<div>
+JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> 
+CSS  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+VSCode  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="css3" width="40" height="40"/>
+git   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="css3" width="40" height="40"/>
+Codepen  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" alt="css3" width="40" height="40"/>
+Debian   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/>
+ 
+</div>
+
 
 ## Preview
 <a href="https://codepen.io/Robeloper/full/qBvYrxV">
-  <img src="photo.png" width="auto">
+  <img src="photo.png" width="500px" height ="300px">
 </a>
 
+##  See project online 
 
+### [Link to project](https://codepen.io/Robeloper/full/OJGxdry)✨
 
  
 
