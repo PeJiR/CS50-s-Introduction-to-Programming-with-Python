@@ -9,7 +9,7 @@
   </a>
  
 </h1>
-<h1 align="center">Personal Portfolio Webpage  ✏️ </h1>
+<h1 align="center">Social media dashboard with theme switcher</h1>
 
  
 
