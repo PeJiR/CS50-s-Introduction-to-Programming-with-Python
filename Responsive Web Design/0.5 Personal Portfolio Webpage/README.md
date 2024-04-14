@@ -43,6 +43,7 @@ This project is a culmination of **Free Code Camp Responsive Web Design Certific
 ![](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=red&color=grey)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=%20&color=%23151C2C)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
  
