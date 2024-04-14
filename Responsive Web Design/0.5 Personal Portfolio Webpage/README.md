@@ -1,15 +1,15 @@
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
 
-<h1 align="center">Frontend Mentor
+<h1 align="center"> freeCodeCamp (🔥) -Full-Stack-Web-Development-Certification-
   
-   
+  Computer-Software-Engineering 
 
 <a href ="https://github.com/PeJiR/freeCodeCamp-Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main">
-    <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" loading="lazy" alt="freeCodeCamp" evi-   width="96" height="96"target="_blank">
+    <img src="https://media.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_100_100/0/1630639684997/free_code_camp_logo?e=1720051200&amp;v=beta&amp;t=F-tTN1M2eWyeNoUGxWhQJrysRrQonck2PJJUxEpaf4c" loading="lazy" alt="freeCodeCamp" evi-   width="96" height="96"target="_blank">
   </a>
  
 </h1>
-<h1 align="center">Social media dashboard with theme switcher</h1>
+<h1 align="center">Personal Portfolio Webpage  ✏️ </h1>
 
  
 
@@ -29,27 +29,25 @@
 ---> 
 ## Project description: 
 
-The challenge is to build out this landing page.
+Welcome to my personal portfolio website! 
+This project is a culmination of **Free Code Camp Responsive Web Design Certificate**, designed to showcase my abilities as a web developer. The goal of this website is to provide a visually appealing and user-friendly platform for potential employers, clients, or collaborators to learn more about me and my work.
 
-The only JavaScript used is for the color theme toggle.
 
-Your users should be able to:
+##  See project online 
 
-- Toggle color theme to their preference
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
+[Link to project](https://codepen.io/Robeloper/full/ZEPRzZx) ✨
 
 
 ## Technology Used ✨
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=red&color=grey)
-![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=%20&color=%23151C2C)
-![](https://img.shields.io/badge/React_JS-%23313335?style=for-the-badge&logo=react&logoColor=%20&color=%23323337)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
  
+- CSS  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+- bootstrap <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="css3" width="40" height="40"/> 
+- HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+- VSCode  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="css3" width="40" height="40"/>
+- git  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="css3" width="40" height="40"/>
+- Codepen  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" alt="css3" width="40" height="40"/>
+- Debian   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/>
+
 
 ## Preview
 
@@ -57,10 +55,6 @@ Your users should be able to:
   <img src="photo.png" width="auto">
 </a>
 
-
-##  See project online 
-
-[Link to project](https://codepen.io/Robeloper/full/ZEPRzZx) ✨
 
 
 
