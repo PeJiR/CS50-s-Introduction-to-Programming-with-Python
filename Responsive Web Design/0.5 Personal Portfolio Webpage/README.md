@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
 
-<h1 align="center"> Frontend Mentor
+<h1 align="center">Frontend Mentor
   
    
 
@@ -29,13 +29,15 @@
 ---> 
 ## Project description: 
 
-Welcome to my personal portfolio website! 
-This project is a culmination of **Free Code Camp Responsive Web Design Certificate**, designed to showcase my abilities as a web developer. The goal of this website is to provide a visually appealing and user-friendly platform for potential employers, clients, or collaborators to learn more about me and my work.
+The challenge is to build out this landing page.
 
+The only JavaScript used is for the color theme toggle.
 
-##  See project online 
+Your users should be able to:
 
-[Link to project](https://codepen.io/Robeloper/full/ZEPRzZx) ✨
+- Toggle color theme to their preference
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
 
 
 ## Technology Used ✨
@@ -55,6 +57,10 @@ This project is a culmination of **Free Code Camp Responsive Web Design Certific
   <img src="photo.png" width="auto">
 </a>
 
+
+##  See project online 
+
+[Link to project](https://codepen.io/Robeloper/full/ZEPRzZx) ✨
 
 
 
