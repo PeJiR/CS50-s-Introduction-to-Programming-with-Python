@@ -1,0 +1,46 @@
+:root {
+  --purple: #a87ffb;
+  --green: #17b877;
+  --blue: #25a6e9;
+  --yellow: #ffc26e;
+  --pale-white: hsl(0, 0%, 95%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Epilogue", sans-serif;
+}
+
+body {  
+  background-color: var(--pale-white);
+  color: black;
+  font-size: 1.25em;
+  margin: 0 auto;
+  align-items: center;
+  max-width: 1440px;
+}
+
+header {
+  border: solid red;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1440px;
+  margin: 16px 16px 24px;
+}
+
+main{
+  border: solid yellow;
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  flex-direction:column;
+  padding: 40px 10px;
+}
+
+.logo{
+  width
+
+}
