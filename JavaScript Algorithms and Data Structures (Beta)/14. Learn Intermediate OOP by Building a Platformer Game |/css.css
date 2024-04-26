@@ -1,0 +1,116 @@
+:root {
+  --purple: #a87ffb;
+  --green: #17b877;
+  --blue: #25a6e9;
+  --yellow: #ffc26e;
+  --pale-white: hsl(0, 0%, 95%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Epilogue", sans-serif;
+}
+
+body {
+  background-color: var(--pale-white);
+  color: black;
+  font-size: 1.25em;
+  margin: 0 auto;
+  align-items: center;
+  max-width: 1440px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1440px;
+  margin: 16px 16px 24px;
+}
+
+main:after {
+  content: "";
+  animation: dotScroll 16s linear infinite;
+  background-image: radial-gradient(
+    circle,
+    #2e3c51 var(--dot-size),
+    transparent 0
+  );
+  background-size: calc(14.2857142857% - 1px) 100px;
+  background-position: 5px 0;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 640px) {
+  main:after {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+@media (min-width: 768px) {
+  main:after {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+
+main:after {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 360px) {
+  main:after {
+    max-width: 360px;
+  }
+}
+
+@media (min-width: 400px) {
+  main:after {
+    max-width: 400px;
+  }
+}
+
+@media (min-width: 640px) {
+  main:after {
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  main:after {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  main:after {
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  main:after {
+    max-width: 1280px;
+  }
+}
+
+@media (min-width: 1536px) {
+  main:after {
+    max-width: 1536px;
+  }
+}
+
+
+button {
+  cursor: pointer;
+  color: #0a0a23;
+  background-color: #;
+  background-image: linear-gradient(#fecc4c, #ffac33);
+  border: 3px solid #feac32;
+}
