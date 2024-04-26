@@ -10,3 +10,18 @@ const keepScoreBtn = document.getElementById("keep-score-btn");
 const rulesContainer = document.querySelector(".rules-container");
 const rulesBtn = document.getElementById("rules-btn");
 
+let diceValuesArr = [];
+let isModalShowing = false;
+let score = 0;
+let totalScore = 0;
+let round = 1; 
+let rolls = 0; 
+
+rulesBtn.addEventListener("click", () => {
+  isModalShowing = !isModalShowing;
+
+if(isModalShowing){
+  rulesBtn.textContent = "Hide Rules";
+  rulesContainer.style.display ="block";
+}
+});
