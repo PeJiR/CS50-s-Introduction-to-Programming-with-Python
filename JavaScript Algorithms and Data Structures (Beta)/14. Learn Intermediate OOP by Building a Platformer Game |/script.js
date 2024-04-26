@@ -121,7 +121,9 @@ const checkpointPositions = [
   { x: 4800, y: proportionalSize(80), z: 3 },
 ];
 
-
+const checkpoints = checkpointPositions.map(
+  (checkpoint) => new CheckPoint(checkpoint.x, checkpoint.y, checkpoint.z)
+);
 
 const animate = () => {
   requestAnimationFrame(animate);
@@ -129,6 +131,10 @@ const animate = () => {
 
   platforms.forEach((platform) => {
     platform.draw();
+  });
+
+  checkpoints.forEach(checkpoint => {
+    checkpoint.draw();
   });
 
   player.update();
@@ -144,9 +150,18 @@ const animate = () => {
       platforms.forEach((platform) => {
         platform.position.x -= 5;
       });
+
+      checkpoints.forEach((checkpoint) => {
+        checkpoint.position.x -= 5;
+      });
+    
     } else if (keys.leftKey.pressed && isCheckpointCollisionDetectionActive) {
       platforms.forEach((platform) => {
         platform.position.x += 5;
+      });
+
+      checkpoints.forEach((checkpoint) => {
+        checkpoint.position.x += 5;
       });
     }
   }
@@ -176,6 +191,37 @@ const animate = () => {
     if (platformDetectionRules.every(rule => rule)) {
       player.position.y = platform.position.y + player.height;
       player.velocity.y = gravity;
+    };
+  });
+
+  checkpoints.forEach((checkpoint, index, checkpoints) => {
+    const checkpointDetectionRules = [
+      player.position.x >= checkpoint.position.x,
+      player.position.y >= checkpoint.position.y,
+      player.position.y + player.height <=
+        checkpoint.position.y + checkpoint.height,
+      isCheckpointCollisionDetectionActive,
+      player.position.x - player.width <=
+        checkpoint.position.x - checkpoint.width + player.width * 0.9,
+      index === 0 || checkpoints[index - 1].claimed === true,
+    ];
+
+    if (checkpointDetectionRules.every((rule) => rule)) {
+      checkpoint.claim();
+
+if (index === checkpoints.length - 1) {
+  isCheckpointCollisionDetectionActive = false;
+  showCheckpointScreen("You reached the final checkpoint!");
+  movePlayer("ArrowRight", 0, false);
+} else if (
+  player.position.x >= checkpoint.position.x && 
+  player.position.x <= checkpoint.position.x + 40
+) {
+  showCheckpointScreen("You reached a checkpoint!");
+}
+
+
+
     };
   });
 }
@@ -224,6 +270,14 @@ const startGame = () => {
   startScreen.style.display = "none";
   animate();
 }
+
+const showCheckpointScreen = (msg) => {
+  checkpointScreen.style.display = "block";
+  checkpointMessage.textContent = msg;
+  if (isCheckpointCollisionDetectionActive) {
+    setTimeout(() => (checkpointScreen.style.display = "none"), 2000);
+  }
+};
 
 startBtn.addEventListener("click", startGame);
 
