@@ -1,0 +1,177 @@
+:root {
+  --purple: #a87ffb;
+  --green: #17b877;
+  --blue: #25a6e9;
+  --yellow: #ffc26e;
+  --pale-white: hsl(0, 0%, 95%);
+}
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color:black;
+  color: var(--pale-white);
+}
+
+main{     
+  display:flex;
+  flex-wrap: wrap;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+  padding: 40px 40px;   
+}
+
+.logo{
+  display:flex;
+  position:absolute;
+  width:auto;  
+  height:4vh;
+  top:0;   
+}
+
+h1{
+  font-size: 2.5 rem;
+  margin: 20px 0;
+  color: var(--green)
+}
+#change-due{
+  text-align: left;
+  font-size: 1.2rem;
+}
+
+.container{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+
+.input-div{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  flex-wrap:wrap;
+  margin: 10px 0 30px;
+}
+
+label{
+  font-size: 1 rem;
+}
+.user-input{
+  height:30px;
+  padding: 15px;
+  margin:10px;
+  border-radius: 15px;
+  background-color: var(--purple);
+  border: 3px solid var(--blue);
+}
+
+.user-input:hover{
+    background-color:var(--blue);
+    border: 3px solid black;
+    cursor:pointer;
+  }
+
+.price-screen {
+  border: 10px solid var(--purple);
+  background-color: black;  
+  height: 50px;
+  width: 250px;
+  margin-left: -30px;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 90px;
+  /* Simulate an extra outer white border */
+  box-shadow: 0 0 0 6px white; /* Adjust the thickness of the white border here */
+}
+
+
+#price{
+  font-size:1.5rem;
+  text-align:center;
+}
+
+.connector{
+  margin-left: 10px;
+  background-color: var(--purple);
+  height:30px;
+  width:20px;
+  border: 6px solid white;
+}
+.top-register{
+  display:flex;
+  justify-content:space-around;
+  border-radius:35px 35px 0 0;
+  padding-top: 20px;
+  background-color:var(--purple);
+  height:250px;
+  width:330px;
+   border: 6px solid white;
+}
+
+.btns-container{
+  color: 2px solid red;
+  width:25%;
+  height:1px;
+}
+ 
+ .btn{
+   border-radius:20%;
+   border:none;
+   width:20px;
+   height:20px;
+   background-color:black;
+ }
+ .check-btn-styles{
+   cursor:pointer;
+   width: 100px;
+   height:30px;
+   margin:10px;
+   color:black;
+   font-size:1.25rem;
+   font-weight:bold;
+   background-color: var(--yellow);
+      
+     border-color:white;
+     border-width:3px;
+ }
+ .check-btn-styles:hover {
+     background-image: linear-gradient(var(--yellow)  , white 90%);
+
+ }
+
+ .cash-drawer-display{
+   font-size:1.2 rem;
+   background-color:black;
+   width: 55%;
+   height:95%;
+   color:white;    
+   padding:10px;
+ }
+
+ .bottom-register{
+   border: 6px solid white;
+   background-color:var(--purple);
+   height:50px;
+   width:330px;
+   margin-top:10px;
+ }
+
+ .circle{
+    
+   margin: 9px auto;
+   border-radius:50%;
+   width:20px;
+   height:20px;
+   background-color:black;
+ }
