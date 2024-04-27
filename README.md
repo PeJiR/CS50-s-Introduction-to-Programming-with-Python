@@ -30,7 +30,7 @@ freeCodeCamp is a community of millions of people around the world who are learn
 ## Certificates in this program:
 
 - ### [Responsive Web Design](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design)
-
+<!--
 #### List of my Projects
 
 | Objective | Topic            | Name                       |
@@ -40,13 +40,13 @@ freeCodeCamp is a community of millions of people around the world who are learn
 | Build a technical documentation page to serve as instruction or reference for a topic  | HTML, CSS , Pseudo Selectors, Events Triggers, CSS positioning, absolute positioning, z-index, transform property,Responsive Design , media queries     | [Technical Documentation Page](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.3.Certification_Project_Technical%20Documentation%20Page)             |
 | Build a product landing page   | HTML, CSS, CSS variables, CSS Grid     | [Product Landing Page](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.4.Product%20Landing%20Page)             |
 | Build my own personal portfolio webpage  |HTML, CSS, CSS animation,CSS transforms  | [Personal Portfolio Webpage](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)             |
-
+-->
 <div>
  <br>
 </div>
 
 - ### [Legacy JavaScript Algorithms and Data Structures](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures)
-
+<!--
 #### List of my Projects
 
 | Objective | Topic            | Name                       |
@@ -56,7 +56,7 @@ freeCodeCamp is a community of millions of people around the world who are learn
 | Build a Caesars Cipher  | JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting | [Caesars Cipher](https://playcode.io/1818575)             |
 | Build a Telephone Number Validator   | JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting    | [Telephone Number Validator](https://playcode.io/1818576)             |
 | Build a Cash Register  |JavaScript, ES6,Regular Expressions,Debugging, Data Structures, Algorithm Scripting, Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting | [Cash Register](https://playcode.io/1818577)             |
-
+-->
 <div>
  <br>
 </div>
@@ -64,12 +64,12 @@ freeCodeCamp is a community of millions of people around the world who are learn
 - ### [JavaScript Algorithms and Data Structures (Beta)](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures%20(Beta))
 
 ### List of my Projects
-
+<!--
 | Objective | Topic            | Name                       |
 | :--- | :--------------- | :------------------------- |
 | Build a Palindrome Checker | HTML, CSS , JavaScript,arrays, strings, objects, functions, loops, if/else statements,  regular expressions, template literals, the addEventListener() method, essential string and array methods like the find(), forEach(), map(), and join(), JavaScript Date object |[Palindrome Checker ](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures%20(Beta)/0.1.Build%20a%20Palindrome%20Checker%20Project)|
 | Build a Roman Numeral Converter | HTML, CSS , JavaScript, switch statements, default parameters, Object.freeze(), the map() method, handle form inputs, manage local storage, perform CRUD (Create, Read, Update, Delete) operations on tasks, implement event listeners, and toggle UI elements, recursion, explore the call stack,  |[Roman Numeral Converter ](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures%20(Beta)/0.2%20Build%20a%20Roman%20Numeral%20Converter%20Project)|
- 
+-->
 <div>
  <br>
 </div>
