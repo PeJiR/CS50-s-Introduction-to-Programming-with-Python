@@ -1,91 +1,87 @@
 <!DOCTYPE html>
-  <html lang="eng">
+<html lang="eng">
 
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/png"
-      href="https://raw.githubusercontent.com/PeJiR/intro-section-with-dropdown-navigation-main/main/images/SWS_Icon_white-bg.png" />
-    <title>Cash Register></title>
-    <link rel="stylesheet" href="./styles.css" />
-  </head>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/png"
+    href="https://raw.githubusercontent.com/PeJiR/intro-section-with-dropdown-navigation-main/main/images/SWS_Icon_white-bg.png" />
+  <title>Pokemon Search App></title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
 
-  <body>
+<body>
+  <main>
     <div class="logo">
       <img
         src="https://raw.githubusercontent.com/PeJiR/intro-section-with-dropdown-navigation-main/main/images/SWS_Icon_white-bg.png"
         alt ="logo SWS"
-
         />
     </div>
-    <main>
-
-
-      <h1>Cash Register Project</h1>
-      <div id="change-due"> </div>
-      <div class="input-div">
-        <label
-          for="cash"> Enter cash from customer
-        </label>
-        <input type="number" id="cash" class="user-input" value=""  />
-        <button class="check-btn-styles" id="purchase-btn"  >Purchase
-        </button>
-
-      </div>
-      <div class="container">
-        <div class="top-display-screen-container">
-          <p id="price-screen" class="price-screen">Total: $1.87</p>
-          <div class="connector"></div>
-        </div>
-        <div class="top-register">
-          <div class="btns-container">
-            <button class="btn"></button>
-            <button class="btn"></button>
-            <button class="btn"></button>
-            <button class="btn"></button>
-            <button class="btn"></button>
-            <button class="btn"></button>
-            <button class="btn"></button>
-            <button class="btn"></button>
-            <button class="btn"></button>
+    <h1>Pokemon Search App</h1>
+    <div class="container">
+      <form role="search" id="search-form">
+        <label for="search-input">Search for Pokemon Name or ID</label>
+        <input type="text" name="pokemon" id="search-input" required >
+        <button id="search-button">Search</button>
+      </form>
+      <div class="output">
+        <div>
+          <div class="top-container">
+            <div class="name-and-id">
+              <span id="pokemon-name"></span>
+              <span id="pokemon-id" ></span>
+            </div>
+            <div class="size">
+              <span id="weight"></span>
+              <span id="height" ></span>
+            </div>
+            <div class="sprite-container" id="sprite-container"></div>
+            <div id="types"></div>
           </div>
-          <div class="cash-drawer-display" id="cash-drawer-display">
-            <p>
-              <strong>Change in drawer: </strong>
-            </p>
-            <p>Pennies: </p>
-            <p>Nickels: </p>
-            <p>Dimes: </p>
-            <p>Quarters: </p>
-            <p>Ones: </p>
-            <p>Fives: </p>
-            <p>Tens: </p>
-            <p>Twenties: </p>
-            <p>Hundreds</p>
+          <div class="bottom-container">
+            <table>
+              <tbody>
+                <tr>
+                  <th>Base</th>
+                  <th>Stats</th>
+                </tr>
+                <tr>
+                  <td>HP:</td>
+                  <td id="hp"></td>
+                </tr>
+                <tr>
+                  <td>Attack:</td>
+                  <td id="attack"></td>
+                </tr>
+                <tr>
+                  <td>Defense:</td>
+                  <td id="defense"></td>
+                </tr>
+                <tr>
+                  <td>Sp.Attack:</td>
+                  <td id="special-attack"></td>
+                </tr>
+                <tr>
+                  <td>Sp.Defense:</td>
+                  <td id="special-defense"></td>
+                </tr>
+                <tr>
+                  <td>Speed:</td>
+                  <td id="speed" class="speed"></td>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
-        <div class="bottom-register">
-          <div class="circle"></div>
-        </div>
-      </div>
+        <script src="./script.js"></script>
+  </main>
+  <div class="attribution">
+    <strong>StackWiseStudios</strong>
+    <a href="https://github.com/PeJiR=" _blank"=""></a>
+    . Coded by <a href="https://www.linkedin.com/in/pejir/">Roberto Perez</a>.
+  </div>
+</body>
 
-
-
-    </main>
-    <script src="./script.js"></script>
-
-    <div class="attribution">
-      <strong>StackWiseStudios</strong>
-      <a href="https://github.com/PeJiR=" _blank"=""></a>
-      . Coded by <a href="https://www.linkedin.com/in/pejir/">Roberto Perez</a>.
-    </div>
-
-
-
-
-
-
-
-  </body>
-  </html>
+</html>
