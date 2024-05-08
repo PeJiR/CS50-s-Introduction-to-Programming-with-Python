@@ -30,8 +30,8 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 
 ## See Certificate
 
-<a href="" target="_blank">
-    <img src="https://www.freecodecamp.org/certification/Pejir/javascript-algorithms-and-data-structures-v8" loading="lazy" alt="certificate" width="96" height="96">
+<a href="https://www.freecodecamp.org/certification/Pejir/javascript-algorithms-and-data-structures-v8" target="_blank">
+    <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/main/images/certificate_7858484.png" loading="lazy" alt="certificate" width="96" height="96">
 </a>
 
  
