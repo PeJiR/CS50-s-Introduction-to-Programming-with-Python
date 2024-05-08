@@ -9,8 +9,7 @@
   </a>
  
 </h1>
-
-<h1 align="center">Roman Numeral Converter 🤓 </h1>
+<h1 align="center">Product Landing Page 🤓 </h1>
 
  
 
@@ -30,25 +29,30 @@
 --->
 ## Project description: 
 
-For this project, I have built a Roman Numeral Converter.Roman numerals are based on seven symbols and can be written using various combinations to represent Arabic numerals. 
+For this project, I have built a technical documentation page to serve as instruction or reference for Introduction to HTML language.
+
+
 
 
 ## Technology Used ✨
+
 <div>
-JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> 
-CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-HTML  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-VSCode   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="css3" width="40" height="40"/>
-Debian   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/>
+CSS   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+HTML   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
+VSCode <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="css3" width="40" height="40"/>
+Debian  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  
 </div>
 
+
 ## Preview
-<a href="https://codepen.io/Robeloper/full/vYMePBB">
-  <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/8d28c1006a2164d2c2f88dc29a53ef8f75e9e257/images/logo.svg" width="500px" height ="300px">
+<a href="https://codepen.io/Robeloper/full/qBvYrxV">
+  <img src="photo.png" width="500px" heigh= "500px">
 </a>
 
-##  [See project online](https://codepen.io/Robeloper/full/vYMePBB) 
+##  See project online 
 
+### [Link to project](https://codepen.io/Robeloper/full/qBvYrxV)✨
 
  
 

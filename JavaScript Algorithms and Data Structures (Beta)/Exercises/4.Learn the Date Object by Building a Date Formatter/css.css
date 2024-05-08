@@ -7,9 +7,9 @@
 }
 
 :root {
-  --dark-grey: black;
-  --white: #17b877;
-  --yellow: #a87ffb;
+  --dark-grey: #0a0a23;
+  --white: #ffffff;
+  --yellow: #f1be32;
 }
 
 body {
@@ -23,7 +23,6 @@ body {
   align-items: center;
   justify-content: center;
   gap: 8px;
-  
 }
 
 .title {
@@ -102,3 +101,4 @@ select {
     display: none;
   }
 }
+
